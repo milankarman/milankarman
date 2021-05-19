@@ -9,7 +9,7 @@ I have professional experience in full stack web and desktop application develop
 ## Get In Touch
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milankarman@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-MK%23001-5965F1?style=flat&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/MK%23001-5965F1?style=flat&logo=Discord&logoColor=white)
 [![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MKarma_)
 
 
