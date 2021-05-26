@@ -1,4 +1,4 @@
-<h1 align="center"> Hey. I'm <b>Milan</b>, otherwise known as <b>MKarma</b></h1>
+<h1 align="center"> Hey. I'm Milan, otherwise known as MKarma</h1>
 
 ## About Me
 
@@ -6,7 +6,7 @@ I'm Milan Karman - a 23 year old developer, designer, and video game enthusiast 
 
 I have professional experience in full stack web and desktop application development, as well as indepedent game development. I've even done freelance design jobs for Super Smash Brothers tournaments and I make my own video content.
 
-## Get In Touch
+## Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milankarman@gmail.com)
 ![Discord](https://img.shields.io/badge/MK%230001-5965F1?style=flat&logo=Discord&logoColor=white)
@@ -20,12 +20,12 @@ I have professional experience in full stack web and desktop application develop
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node-dot-js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next-dot-js&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe+Photoshop&logoColor=FFFFFF)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe+Illustrator&logoColor=FFFFFF)
