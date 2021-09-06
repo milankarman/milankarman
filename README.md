@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm Milan Karman - a 23 year old developer, designer, and video game enthusiast from The Netherlands. I'm a firm believer that anyone can learn any skill, because of that I'm often trying to expand my skillset into all different types of fields that interest me.
+I'm Milan Karman - a 23 year old developer, designer, and video game enthousiast from The Netherlands. I'm a firm believer that anyone can learn any skill, because of that I'm often trying to expand my skillset into all different types of fields that interest me.
 
-I have professional experience in full stack web and desktop application development, as well as indepedent game development. I've even done freelance design jobs for Super Smash Brothers tournaments and I make my own video content.
+I have professional experience in full stack web and desktop application development as well as indepedent game development. I've even done freelance design jobs for Super Smash Brothers tournaments and I make my own video content.
 
 ## Contact Me
 
@@ -25,7 +25,7 @@ I have professional experience in full stack web and desktop application develop
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next-dot-js&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Nextdotjs&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe+Photoshop&logoColor=FFFFFF)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe+Illustrator&logoColor=FFFFFF)
