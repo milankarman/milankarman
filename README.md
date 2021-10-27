@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Milan Karman - a 23 year old developer, designer, and video game enthousiast from The Netherlands. I'm a firm believer that anyone can learn any skill, because of that I'm often trying to expand my skillset into all different types of fields that interest me.
+I'm Milan Karman - a 24 year old developer, designer, and video game enthousiast from The Netherlands. I'm a firm believer that anyone can learn any skill, because of that I'm often trying to expand my skillset into all different types of fields that interest me.
 
 I have professional experience in full stack web and desktop application development as well as indepedent game development. I've even done freelance design jobs for Super Smash Brothers tournaments and I make my own video content.
 
