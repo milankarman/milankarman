@@ -4,7 +4,7 @@
 
 I'm Milan Karman - a 24 year old developer, designer, and video game enthousiast from The Netherlands. I'm a firm believer that anyone can learn any skill, because of that I'm often trying to expand my skillset into all different types of fields that interest me.
 
-I am experienced in full stack web, desktop application development and indepedent game development. I also have experience producing video content from trailers to documentaries, as well as doing freelance graphic design.
+I am experienced in full stack web, desktop application and indepedent game development. I also have experience producing video content from trailers to documentaries, as well as doing freelance graphic design.
 
 ## Contact Me
 
